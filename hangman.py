@@ -1,7 +1,3 @@
-# Author: Parisa Singh
-# Email: parisasingh@umass.edu
-# Spire ID: 34751702
-
 import random
 
 def make_phrase():
